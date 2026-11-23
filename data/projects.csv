@@ -1,0 +1,25 @@
+project,work_package,status,planned_progress,actual_progress,budget_inr,spent_inr,site_manager
+Aurum Residences,Excavation,On Track,22,20,135000000,45385870,Manager 1
+Aurum Residences,RCC Structure,On Track,29,6,129000000,49689771,Manager 1
+Aurum Residences,Masonry,On Track,28,32,138000000,72891420,Manager 1
+Aurum Residences,MEP Services,On Track,55,65,44000000,19886843,Manager 1
+Aurum Residences,Finishing,At Risk,30,22,113000000,75550002,Manager 1
+Aurum Residences,External Development,Delayed,41,40,37000000,22687731,Manager 1
+Lakeview Heights,Excavation,On Track,28,25,171000000,137651573,Manager 2
+Lakeview Heights,RCC Structure,Delayed,33,28,125000000,102185934,Manager 2
+Lakeview Heights,Masonry,On Track,23,45,127000000,74099185,Manager 2
+Lakeview Heights,MEP Services,On Track,62,75,58000000,43464433,Manager 2
+Lakeview Heights,Finishing,On Track,50,47,133000000,119839191,Manager 2
+Lakeview Heights,External Development,On Track,81,70,154000000,119050906,Manager 2
+UrbanNest Phase II,Excavation,On Track,92,99,51000000,24070337,Manager 3
+UrbanNest Phase II,RCC Structure,On Track,34,19,178000000,137822234,Manager 3
+UrbanNest Phase II,Masonry,On Track,85,70,121000000,49899736,Manager 3
+UrbanNest Phase II,MEP Services,At Risk,47,52,170000000,101520169,Manager 3
+UrbanNest Phase II,Finishing,At Risk,87,90,108000000,36489267,Manager 3
+UrbanNest Phase II,External Development,On Track,84,89,102000000,91577073,Manager 3
+Orchid Business Park,Excavation,On Track,20,5,148000000,110989239,Manager 4
+Orchid Business Park,RCC Structure,On Track,87,72,40000000,17826358,Manager 4
+Orchid Business Park,Masonry,At Risk,94,96,138000000,75829628,Manager 4
+Orchid Business Park,MEP Services,Delayed,30,25,105000000,37432543,Manager 4
+Orchid Business Park,Finishing,On Track,62,54,55000000,16178794,Manager 4
+Orchid Business Park,External Development,On Track,31,5,161000000,70573820,Manager 4
